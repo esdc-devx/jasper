@@ -2,27 +2,12 @@
 // The Client API can be used here. Learn more: gridsome.org/docs/client-api
 
 import DefaultLayout from '~/layouts/Default.vue'
+import '~/assets/css/aurora.css'
+import '~/assets/css/global.css'
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout)
-  head.script.push({
-    src: "https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_30/cdts/compiled/soyutils.js",
-  });
-  head.script.push({
-    src: "https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_30/cdts/compiled/wet-en.js",
-  });
-  head.script.push({ 
-    innerHTML: ` document.write(wet.builder.refTop({
-        cdnEnv: 'prod',
-        subTheme: 'gcweb',
-        jqueryEnv: 'external',
-        localPath: '',
-        isApplication: true
-      }));
-    `,
-    type:"text/javascript",
-  })
 
 
 // Add a meta tag

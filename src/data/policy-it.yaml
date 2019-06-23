@@ -1,73 +1,121 @@
 - title: Acceptable Network and Device Use, Policy on
   tags: 
     - IT
+    - pandu
+    - network use
+    - device use
+    - policy
   description: Ensures that employees use government electronic networks and devices in an acceptable manner, and provides employees with open access to the Internet, including Web 2.0 tools and services. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122
 - title: Automated Decision-Making, Directive on
   tags: 
     - IT
+    - ai
+    - machine learning 
+    - directive
+    - decision-making
   description: The Government of Canada is increasingly looking to utilize artificial intelligence to make, or assist in making, administrative decisions to improve service delivery. The Government is committed to doing so in a manner that is compatible with core administrative law principles such as transparency, accountability, legality, and procedural fairness. Understanding that this technology is changing rapidly, this Directive will continue to evolve to ensure that it remains relevant. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592
 - title: Business Number, Directive on the
   tags: 
     - IT
+    - bn
+    - directive
   description: Outlines the requirements for use of the Business Number as the standard identifier of businesses for all transactions between the business and the Government of Canada. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32579
 - title: Enterprise Resource Planning Systems, Standard on
   tags: 
     - IT
+    - standard
   description: Explains the responsibilities related to investments in and upgrades to enterprise resource planning systems. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25687
 - title: Information Technology, Directive on Management of
   tags: 
     - IT
+    - directive
   description: Information technology (IT) enables the federal government to effect operations and service transformation. IT matters strategically for increasing government productivity and enhancing government services to the public for the benefit of citizens, businesses, taxpayers and employees. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249
 - title: Information Technology, Policy on Management of
   tags: 
     - IT
+    - policy
+    - management
   description: Aims to achieve the efficient and effective use of information technology, support government priorities and program delivery, increase productivity, and enhance services to the public. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755
 - title: Optimizing Websites and Applications for Mobile Devices, Standard on
   tags: 
     - IT
+    - mobile
+    - optimize
+    - phone 
+    - tablet
+    - standard
   description: Sets out requirements for ensuring the optimization of Government of Canada websites and applications with respect to mobile devices, and permits only the justifiable use of device-based mobile applications. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27088
 - title: "TBITS 03: Coded Character Set for Information Interchange - Implementation Criteria"
   tags: 
     - IT
+    - TBITS
   description: Provides a complete set of characters necessary to support current and future information interchange requirements in English and in French. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17251
 - title: "TBITS 05 : Canadian Government Keyboard Standard for Information Technology Equipment - Implementation Criteria"
   tags: 
     - IT
+    - TBITS
   description: Aims to accommodate the needs of all keyboard users in the Canadian federal government and to support the Official Languages Act and related policies. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17253
 - title: "TBITS 06.11: Naming and Addressing for Government Handling Applications - Implementation Criteria"
   tags: 
     - IT
+    - TBITS
   description: Provides the minimum requirements associated with naming and addressing in Government Handling Applications. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17260
 - title: "TBITS 06.9: Canadian Open Systems Application Criteria (COSAC), Telecommunications wiring system in Government-Owned and leased buildings - Implementation Criteria"
   tags: 
     - IT
+    - TBITS
   description: Outlines the minimum requirements governing the telecommunications wiring system used to provide communications in government-owned and government-leased buildings. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15746
 - title: "TBITS 12: Codes for the Representation of Currencies and Funds - Implementation Criteria"
   tags: 
     - IT
+    - TBITS
   description: Provides a set of codes for the representation of currencies and funds that will promote consistency and uniformity in the exchange of data both inside and outside the federal government. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17280
 - title: "TBITS 23: Information Technology Vocabulary - Implementation Criteria"
   tags: 
     - IT
+    - TBITS
   description: Presents English terms and French terms, as well as their definitions, that pertain specifically to the area of information technology. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17281
 - title: "TBITS 25: Materiel Coding - Implementation Criteria"
   tags: 
     - IT
+    - TBITS
   description: The standard explains the adoption of the Canadian component of the NATO Codification System as the materiel classification code used by the Government of Canada. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17282
 - title: "TBITS 26: Software Product Evaluation, Quality Characteristics and Guidelines for their Use - Implementation Criteria"
   tags: 
     - IT
+    - TBITS
   description: Explains how to adopt quality management practices, which include system controls, deployment, and administration of information technology resources. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17283
 - title: "TBITS 30: Business Number - Implementation Criteria"
   tags: 
     - IT
+    - TBITS
   description: Endorses the use of a business number to uniquely identify private and public sector entities (i.e., registrants), government programs, and operating entities. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17285
 - title: "TBITS 36: All-Numeric Representation of Dates and Times -Implementation Criteria"
   tags: 
     - IT
+    - TBITS
   description: Defines the numeric format for calendar dates for the purpose of exchanging machine-readable data between departments and agencies. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17284
 -
   title: "TBITS 38: Advanced card technologies - Physical parameters and appearance of the Government of Canada employee technology card - Implementation Criteria"
   tags: 
+    - TBITS
     - IT
   description: Constitutes the Treasury Board Information and Technology Standard, which sets the norm for government employee technology cards. e 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15260

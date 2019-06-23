@@ -1,0 +1,81 @@
+---
+- title: "Direction on Migration to BlackBerry Messenger Enterprise (BBME)"
+  tags: 
+    - itpin
+    - bbme
+    - blackberry
+  description: "2018-04 (October 26, 2018)"
+  url: https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/policy-implementation-notices/direction-migration-bbme.html
+- title: Direction on Windows 10 Desktop Operating System Migration and Configuration
+  tags: 
+    - itpin
+    - windows 10
+    - os migration
+    - windows
+    - microsoft
+  description: 2018-03 (August 30, 2018)
+  url: https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/policy-implementation-notices/direction-windows10-desktop-operating-system-migration-configuration.html
+- title: Disposition of Windows Server 2008 Software
+  tags: 
+    - itpin
+    - windows
+    - microsoft
+  description: 2018-02 (August 29, 2018)
+  url: https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/policy-implementation-notices/direction-technology-lifecycle-management-itpin.html
+- title: Implementing HTTPS for Secure Web Connections
+  tags: 
+    - itpin
+    - HTTPS
+    - web
+  description: 2018-01 (June 27, 2018)
+  url: https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/policy-implementation-notices/implementing-https-secure-web-connections-itpin.html
+- title: Direction for Electronic Data Residency
+  tags: 
+    - itpin
+    - data residency
+  description: 2017-02 (November 1, 2017)
+  url: https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/direction-electronic-data-residency.html
+- title: Direction for Discontinued Use of Microsoft Office 2010 Software
+  tags: 
+    - itpin
+    - microsoft
+  description: 2017-01 (August 7, 2017)
+  url: https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/policy-implementation-notices/direction-discontinued-use-microsoft-office-2010-software.html
+- title: Direction for Discontinued Use of Microsoft Office 2010 (and Earlier Versions) Software
+  tags: 
+    - itpin
+    - microsoft
+  description: 2016-01 (Mar 31, 2016)
+  url: https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/policy-implementation-notices/direction-discontinued-use-microsoft-office-2010-earlier-versions-software.html
+- title: Direction for Discontinued Use of Unsupported Microsoft Desktop Operating Systems on Government of Canada Networks
+  tags: 
+    - itpin
+    - microsoft
+  description: 2015-04 (September 8, 2015)
+  url: https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/policy-implementation-notices/direction-discontinued-use-unsupported-microsoft-desktop-operating-systems-government-canada-networks.html
+- title: Disposition of Windows Server 2003 Software
+  tags: 
+    - itpin
+    - windows
+    - microsoft
+  description: 2015-03 (August 31, 2015) updated on June 28th, 2017
+  url: https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/policy-implementation-notices/disposition-windows-server-2003-software.html
+- title: Direction for Microsoft Internet Explorer Browser Version Utilization
+  tags: 
+    - itpin
+    - microsoft
+  description: 2015-02 (June 22, 2015)
+  url: https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/policy-implementation-notices/direction-microsoft-internet-explorer-browser-version-utilization.html
+- title: Disposition of Government of Canada Windows XP Devices
+  tags: 
+    - itpin
+    - windows
+    - microsoft
+  description: 2015-01 (February 12, 2015)
+  url: https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/policy-implementation-notices/disposition-government-canada-windows-xp-devices.html
+- title: Secure use of portable data storage devices within the Government of Canada
+  tags: 
+    - itpin
+    - storage
+  description: 2014-01 (May 20, 2014)
+  url: https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/policy-implementation-notices/secure-use-portable-data-storage-devices-government.html

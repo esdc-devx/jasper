@@ -1,49 +1,63 @@
 <template>
   <Layout>
-    
-    <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt="Example image" src="~/favicon.png" width="135" />
-    
-    <h1>Jasper Policy Instrument Explorer</h1>
+    <div class="form-inline search-form search-form-round">
+        <label for="search2" class="sr-only">Search</label>
+        <input type="text" class="form-control" id="search2" placeholder="Search">
+        <span class="search-form-addon"></span>
+    </div>
 
-    <ul v-for="doc in docs" v-bind:key="doc.title">
-      <li >
-
-        <p>{{ doc.title }} </p>
-        <ul v-for="tag in doc.tags" v-bind:key="tag">
-          <li>{{ tag }}</li>
-          </ul>
-        <p>{{ doc.description }}</p>
-
-      </li>
-    </ul>   
-
-    <p class="home-links">
-      <a href="https://gridsome.org/docs" target="_blank" rel="noopener">Gridsome Docs</a>
-      <a href="https://github.com/gridsome/gridsome" target="_blank" rel="noopener">GitHub</a>
-    </p>
-
+    <div
+      class="card mb-2 d-inline-block"
+      style="max-width: 18rem;"
+      v-for=" doc in docs"
+      v-bind:key="doc.title"
+    >
+      <div class="card-body">
+        <h2 class="card-title h5"><a :href="doc.url">{{ doc.title }}</a></h2>
+        <hr>
+        <div class="card-subtitle mt-2">
+          <p>
+            <span
+              class="badge badge-primary badge-tag"
+              v-for="tag in doc.tags"
+              v-bind:key="tag"
+            >{{ tag }}</span>
+          </p>
+        </div>
+        <p class="card-text">{{ doc.description }}</p>
+      </div>
+    </div>
   </Layout>
 </template>
 
 <script>
-import imdocs from "@/data/policy-im.yaml"
-import itdocs from "@/data/policy-it.yaml"
-import imitdocs from "@/data/policy-imit.yaml"
-
+import imdocs from "@/data/policy-im.yaml";
+import itdocs from "@/data/policy-it.yaml";
+import imitdocs from "@/data/policy-imit.yaml";
+import itpins from "@/data/itpin.yaml";
+import _ from "lodash";
 
 export default {
-  mounted() { 
-   this.docs = imdocs.concat(itdocs, imitdocs);
+  mounted() {
+    this.docs = imdocs.concat(itdocs, imitdocs, itpins).map(doc => { 
+      return { 
+      title: doc.title,
+      description: _.truncate(doc.description, { 'length': 256 }),
+      url: doc.url,
+      tags: doc.tags,
+      }
+    });
+
   },
-  data() {  return  { 
+  data() {
+    return {
       docs: []
-    }
+    };
   },
   metaInfo: {
-    title: 'Hello, world!'
+    title: "Hello, world!"
   }
-}
+};
 </script>
 
 <style>

@@ -1,16 +1,23 @@
 ---
 - title: Information and Technology, Policy Framework for
-  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12452 
   tags: 
     - IM
     - IT
     - Framework
+    - policy framework
   description: Provides strategic context for the Policy on Information Management and the Policy on the Management of Information Technology, and takes into consideration the Privacy and Data Protection Policy, the Access to Information Policy, and the Government Security Policy. In addition, information technology provides guiding principles to sound information and technology management practices across government. These principles also serve to support individuals and employees in exercising their rights and performing their duties. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12452 
 - title:  Electronic Documents and Records Management Solutions (EDRMS), Standard for
   tags: 
     - IM
+    - documents
+    - edrms
+    - standard
+    - record management
   description: Supports efficient and effective management of information through the use of electronic documents and records management solutions (EDRMS), and maximizes the benefit of EDRMS-related Government of Canada investments. 
+  url: https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18910
 - title: Metadata, Standard on
   tags: 
     - IT
+    - metadata
   description: Aims to increase the use of standardized metadata and value domains in support of the management of information resources. 
