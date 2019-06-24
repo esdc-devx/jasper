@@ -12,5 +12,11 @@ module.exports = {
       path: 'src/data/*.yaml',
       typeName: 'DocPage'
     }
+  }, {
+    use: '@gridsome/source-filesystem',
+    options: {
+      path: 'src/data/*.md',
+      typeName: 'notes'
+    }
   }]
 }
